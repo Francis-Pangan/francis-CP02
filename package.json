@@ -1,0 +1,19 @@
+{
+  "name": "cp-02",
+  "version": "1.0.0",
+  "description": "NPM",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Francis-Pangan/francis-CP02.git"
+  },
+  "author": "Francis Pangan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Francis-Pangan/francis-CP02/issues"
+  },
+  "homepage": "https://github.com/Francis-Pangan/francis-CP02#readme"
+}
